@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-![](https://visitor-badge.glitch.me/badge?page_id=PrathmeshSadake.PrathmeshSadake)
+![](https://visitor-badge.glitch.me/badge?page_id=EshaGoel.EshaGoel)
 
 <a href="https://www.instagram.com/goelesha001/">
   <img align="left" alt="Esha Goel | Instagram" width="21px" src="https://image.flaticon.com/icons/svg/733/733558.svg" />
