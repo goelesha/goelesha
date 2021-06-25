@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **goelesha/goelesha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,17 +15,14 @@ Here are some ideas to get you started:
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 ![](https://visitor-badge.glitch.me/badge?page_id=PrathmeshSadake.PrathmeshSadake)
 
-<a href="https://twitter.com/prathmeshsadake">
-  <img align="left" alt="PrathmeshSadake | Twitter" width="21px" src="https://raw.githubusercontent.com/anuraghazra/anuraghazra/master/assets/twitter.svg" />
-</a>
-<a href="https://instagram.com/prxthmesh">
-  <img align="left" alt="PrathmeshSadake | Instagram" width="21px" src="https://image.flaticon.com/icons/svg/733/733558.svg" />
+<a href="https://www.instagram.com/goelesha001/">
+  <img align="left" alt="Esha Goel | Instagram" width="21px" src="https://image.flaticon.com/icons/svg/733/733558.svg" />
 </a>
 <a href="https://www.facebook.com/prathamesh.sadake">
   <img align="left" alt="PrathmeshSadake | Facebook" width="21px" src="https://image.flaticon.com/icons/svg/733/733547.svg" />
 </a>
-<a href="https://linkedin.com/in/prathmeshsadake">
-  <img align="left" alt="PrathmeshSadake | Linkedin" width="21px" src="https://image.flaticon.com/icons/svg/124/124011.svg" />
+<a href="https://www.linkedin.com/in/esha-goel-336791185/">
+  <img align="left" alt="Esha Goel | Linkedin" width="21px" src="https://image.flaticon.com/icons/svg/124/124011.svg" />
 </a>
 </br>
 </br>
