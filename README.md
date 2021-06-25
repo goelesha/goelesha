@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 <a href="https://www.instagram.com/goelesha001/">
   <img align="left" alt="Esha Goel | Instagram" width="21px" src="https://image.flaticon.com/icons/svg/733/733558.svg" />
 </a>
-<a href="https://www.facebook.com/prathamesh.sadake">
+<!--<a href="https://www.facebook.com/prathamesh.sadake">
   <img align="left" alt="PrathmeshSadake | Facebook" width="21px" src="https://image.flaticon.com/icons/svg/733/733547.svg" />
-</a>
+</a>-->
 <a href="https://www.linkedin.com/in/esha-goel-336791185/">
   <img align="left" alt="Esha Goel | Linkedin" width="21px" src="https://image.flaticon.com/icons/svg/124/124011.svg" />
 </a>
@@ -39,7 +39,7 @@ I’d love to combine my passion for learning and developing with my software de
 <a href="https://www.cplusplus.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40" height="40"/> </a> &nbsp;&nbsp;
 <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>  &nbsp;
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> &nbsp;
-<a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>
+<!--<a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a>-->
 <a href="www.npmjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="NPM" width="40" height="40"/> </a> &nbsp; 
 
 <!--  is my 🌐 [Personal Portfolio](https://prathmeshsadake.github.io) -->
