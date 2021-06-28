@@ -14,6 +14,9 @@
 <a href="https://www.linkedin.com/in/esha-goel-336791185/">
   <img align="left" alt="Esha Goel | Linkedin" height="25px" src="https://github.com/goelesha/goelesha/blob/main/Assets/Linkedin.svg" />
 </a>
+<a href="https://developers.google.com/profile/u/101966453031202334547">
+  <img align="left" alt="Esha Goel | Linkedin" height="25px" src="https://github.com/goelesha/goelesha/blob/main/Assets/Google_Developers_logo.svg" />
+</a>
 <a href="mailto:goelesha2001@gmail.com">
   <img align="left" alt="Esha Goel | Mail" height="25px" src="https://github.com/goelesha/goelesha/blob/main/Assets/Gmail.svg" />
 </a>
