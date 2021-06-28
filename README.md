@@ -1,12 +1,11 @@
-# Esha Goel&nbsp;
+<h1 align="center"> Lets meet Esha Goel !! </h1> &nbsp;
 <!--<a href="https://www.linkedin.com/in/avinashkranjan"><img src="https://github.com/avinashkranjan/avinashkranjan/blob/master/logos/linkedin.png" width="40" /></a>
 <a href="https://github.com/avinashkranjan"><img src="https://github.com/avinashkranjan/avinashkranjan/blob/master/logos/github-logo.png" width="40" /></a>
 <a href="https://www.facebook.com/avinashranjan.1020/"><img src="https://github.com/avinashkranjan/avinashkranjan/blob/master/logos/facebook.png" width="40" /></a>
 <a href="https://twitter.com/iavinashranjan"><img src="https://github.com/avinashkranjan/avinashkranjan/blob/master/logos/twitter.png" width="40" /></a>
 <a href="https://www.instagram.com/avinashkranjan7"><img src="https://github.com/avinashkranjan/avinashkranjan/blob/master/logos/instagram.png" width="40" /></a>-->
 
-<a href="https://www.instagram.com/goelesha001/">
-  <img align="left" alt="Esha Goel | Instagram" width="21px" src="https://image.flaticon.com/icons/svg/733/733558.svg" />
+<a href="mailto:goelesha2001@gmail.com"><img src="https://github.com/goelesha/goelesha/blob/main/Assets/Gmail.svg" alt="Esha Goel's👩‍💻 Gmail id" height="25" width="25"></a><a href="https://dev.to/kritikaparmar5"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Kritika Parmar👩‍💻's DEV Profile" height="25" width="25"></a><a href="https://www.instagram.com/goelesha001/"><img align="left" alt="Esha Goel | Instagram" width="21px" src="https://image.flaticon.com/icons/svg/733/733558.svg" />
 </a>
 <!--<a href="https://www.facebook.com/prathamesh.sadake">
   <img align="left" alt="PrathmeshSadake | Facebook" width="21px" src="https://image.flaticon.com/icons/svg/733/733547.svg" />
@@ -14,6 +13,7 @@
 <a href="https://www.linkedin.com/in/esha-goel-336791185/">
   <img align="left" alt="Esha Goel | Linkedin" width="21px" src="https://image.flaticon.com/icons/svg/124/124011.svg" />
 </a>
+
 </br>
 </br>
 
