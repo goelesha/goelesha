@@ -5,14 +5,34 @@
 <a href="https://twitter.com/iavinashranjan"><img src="https://github.com/avinashkranjan/avinashkranjan/blob/master/logos/twitter.png" width="40" /></a>
 <a href="https://www.instagram.com/avinashkranjan7"><img src="https://github.com/avinashkranjan/avinashkranjan/blob/master/logos/instagram.png" width="40" /></a>-->
 
-<a href="mailto:goelesha2001@gmail.com"><img src="https://github.com/goelesha/goelesha/blob/main/Assets/Gmail.svg" alt="Esha Goel's👩‍💻 Gmail id" height="25" width="25"></a><a href="https://dev.to/kritikaparmar5"><img src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" alt="Kritika Parmar👩‍💻's DEV Profile" height="25" width="25"></a><a href="https://www.instagram.com/goelesha001/"><img align="left" alt="Esha Goel | Instagram" width="21px" src="https://image.flaticon.com/icons/svg/733/733558.svg" />
-</a>
+
 <!--<a href="https://www.facebook.com/prathamesh.sadake">
   <img align="left" alt="PrathmeshSadake | Facebook" width="21px" src="https://image.flaticon.com/icons/svg/733/733547.svg" />
 </a>-->
+
+
 <a href="https://www.linkedin.com/in/esha-goel-336791185/">
-  <img align="left" alt="Esha Goel | Linkedin" width="21px" src="https://image.flaticon.com/icons/svg/124/124011.svg" />
+  <img align="left" alt="Esha Goel | Linkedin" height="25px" src="https://github.com/goelesha/goelesha/blob/main/Assets/Linkedin.svg" />
 </a>
+<a href="mailto:goelesha2001@gmail.com">
+  <img align="left" alt="Esha Goel | Mail" height="25px" src="https://github.com/goelesha/goelesha/blob/main/Assets/Gmail.svg" />
+</a>
+<a href="https://www.instagram.com/goelesha001/">
+  <img align="left" alt="Esha Goel | Instagram" height="25px" src="https://github.com/goelesha/goelesha/blob/main/Assets/Instagram.svg" />
+</a>
+<a href="https://www.hackerrank.com/goelesha2001">
+  <img align="left" alt="Esha Goel | Instagram" height="25px" src="https://github.com/goelesha/goelesha/blob/main/Assets/HackerRank.svg" />
+</a>
+<a href="https://devpost.com/goelesha2001?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav">
+  <img align="left" alt="Esha Goel | Dev" height="25px" src="https://github.com/goelesha/goelesha/blob/main/Assets/devpost.svg" />
+</a>
+<a href="https://dev.to/goelesha">
+  <img align="left" alt="Esha Goel | Dev" height="25px" src="https://github.com/goelesha/goelesha/blob/main/Assets/dev.svg" />
+</a>
+<a href="https://devfolio.co/@EshaGoel">
+  <img align="left" alt="Esha Goel | Dev" height="25px" src="https://github.com/goelesha/goelesha/blob/main/Assets/devfolio.svg" />
+</a>
+
 
 </br>
 </br>
