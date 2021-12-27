@@ -84,8 +84,15 @@ I love building webpages and Software products. I’d love to combine my passion
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=goelesha&layout=compact)](https://github.com/goelesha)
 ![Esha's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=goelesha)--> 
 
+  
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=goelesha&theme=holi-theme&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+  
+  
 <hr>
 </div>
+
+
+
 <!--
 <h1>Connect With Me :inbox_tray: </h1>
 
